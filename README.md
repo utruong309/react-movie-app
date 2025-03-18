@@ -1,4 +1,4 @@
-# 🎬 **Movie Finder React App**  
+# 🎬 **Movie Finder App Using React**  
 A React-based movie search application that allows users to discover and browse movies using **The Movie Database (TMDB) API**.
 
 ---
