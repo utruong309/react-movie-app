@@ -7,7 +7,7 @@ A React movie search application that allows users to discover and browse movies
 **Search Movies**: Instantly search movies by title.  
 **Movie Details**: View ratings, language, and release year.  
 **Popular Movies**: Displays trending movies when no search query is entered.  
-**Optimized Performance**: Uses React hooks (`useState`, `useEffect`) and handling errors. 
+**Optimized Performance**: Uses React hooks (`useState`, `useEffect`) and handles errors. 
 
 ---
 
