@@ -12,6 +12,6 @@ A React movie search application that allows users to discover and browse movies
 ---
 
 ## 🛠 **Technologies Used**  
-🔹 **Frontend**: React.js, JavaScript (ES6+), Tailwind CSS  
-🔹 **API**: [TMDB API](https://www.themoviedb.org/) (for fetching movie data)  
-🔹 **Build Tool**: Vite  
+**Frontend**: React.js, JavaScript (ES6+), Tailwind CSS  
+**API**: [TMDB API](https://www.themoviedb.org/) (for fetching movie data)  
+**Build Tool**: Vite  
